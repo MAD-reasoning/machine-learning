@@ -7,6 +7,7 @@
     * SVR
     * Decision Tree Regression
     * Random Forest regression
+    
 
 2. Classification
     * Logistic Regression
@@ -15,6 +16,7 @@
     * Naive Bayes
     * Decision Tree Classification
     * Random Forest Classification
+    
 
 3. Clustering
     * K-means
