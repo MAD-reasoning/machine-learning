@@ -12,7 +12,7 @@
 2. Classification
     * Logistic Regression
     * K-NN
-    * SVM
+    * SVC
     * Naive Bayes
     * Decision Tree Classification
     * Random Forest Classification
@@ -21,3 +21,12 @@
 3. Clustering
     * K-means
     * Hierarchical
+
+
+4. Associative Rule Learning
+   * Apriori
+
+
+5. Reinforcement Learning
+   * Upper Confidence Bound
+   * Thomphson Sampling
