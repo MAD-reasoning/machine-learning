@@ -30,3 +30,11 @@
 5. Reinforcement Learning
    * Upper Confidence Bound
    * Thomphson Sampling
+
+6. Dimensionality Reduction
+   * Principle Component Analysis
+   * Linear Discriminant Analysis
+
+7. Model Selection
+   * K-fold Cross Validation
+   * Grid Search
