@@ -4,7 +4,7 @@
     * Simple Regression
     * Multiple Regression
     * Polynomial Regression
-    * SVR
+    * Support Vector Regression
     * Decision Tree Regression
     * Random Forest regression
     
@@ -12,7 +12,7 @@
 2. Classification
     * Logistic Regression
     * K-NN
-    * SVC
+    * Support Vector Classification
     * Naive Bayes
     * Decision Tree Classification
     * Random Forest Classification
